@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='walkthrough.gif' title='Video Walkthrough' width='200%' height='200%' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='150%' height='150%' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with https://www.freeconvert.com/  
