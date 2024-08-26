@@ -50,6 +50,7 @@ body {
     
 }
 
+
 .game-img {
     width: 100%;
     border-radius: 5px;
@@ -68,7 +69,7 @@ body {
 
 .game-card:hover {
     cursor: pointer;
-    box-shadow: 0 0 30px lightblue;
+    box-shadow: 0 0 30px rgb(206, 241, 5);
 }
 
 #button-container {
@@ -76,9 +77,24 @@ body {
 }
 
 button {
-    font-family: 'Cabin';
-    border: none;
-    padding: 1%;
-    margin: 1%;
-    border-radius: 7px;
+    text-align: center;
+	display: inline-block;
+	margin:5px;
+    font-weight: bold;
+    padding: 10px 0 10px 10px ;
+    background-color: lightgray;
+    text-shadow: -1px -1px black, 1px 1px white;
+    color: gray;
+    -webkit-border-radius: 7px;
+	-moz-border-radius: 7px;
+	-o-border-radius: 7px;
+	border-radius: 7px;
+    box-shadow: 0 .2em gray; 
+    cursor: pointer;
+    font-size: 150%;
+}
+button:active {
+	box-shadow: none;
+	position: relative;
+	top: .2em;
 }
