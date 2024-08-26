@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] I have styled the button. The default button were not interactive with the user. User could not know when they clicked the button. With the new interactive buttons, user knows when the buton is clicked
 
 ## Video Walkthrough
 
