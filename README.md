@@ -34,7 +34,7 @@ GIF created with https://www.freeconvert.com/
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+To understand how js, css, and html all work together was challenging and fun to learn.
 
 ## License
 
