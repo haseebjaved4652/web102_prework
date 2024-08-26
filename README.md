@@ -1,8 +1,8 @@
 # WEB102 Prework - *Sea Monster Crowdfunding*
 
-Submitted by: **Your Name Here**
+Submitted by: **Haseeb Javed**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: **6** hours spent in total
 
@@ -34,7 +34,7 @@ GIF created with https://www.freeconvert.com/
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+To understand how js, css, and html all work together was challenging and fun to learn.
 
 ## License
 
