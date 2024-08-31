@@ -38,7 +38,7 @@ To understand how js, css, and html all work together was challenging and fun to
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Haseeb Javed]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
